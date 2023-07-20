@@ -1,4 +1,4 @@
 (fp_lib_table
   (lib (name "jesphob")(type "KiCad")(uri "${KIPRJMOD}/jesphob_footprints.pretty")(options "")(descr "")(disabled))
-  (lib (name "PhobGCC_2_0_0_footprints")(type "KiCad")(uri "C:/Users/keith/Documents/jesphob/PCB/KiCAD/PhobGCC_2_0_0_footprints.pretty")(options "")(descr ""))
+  (lib (name "PhobGCC_2_0_0_footprints")(type "KiCad")(uri "C:/Users/keith/Documents/jesphob/Phob PCB files/KiCAD/PhobGCC_2_0_0_footprints.pretty")(options "")(descr ""))
 )
